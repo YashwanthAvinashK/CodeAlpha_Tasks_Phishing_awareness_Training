@@ -1,0 +1,24 @@
+Phishing Email Recognition
+
+Users successfully identify phishing indicators such as:
+
+✅ Urgent language
+
+✅ Suspicious sender addresses
+
+✅ Unexpected attachments
+
+✅ Grammar mistakes
+
+✅ Requests for passwords
+
+Legitimate Email
+From: support@amazon.com
+
+Your order has been shipped.
+
+Phishing Email
+From: amazon-support123@gmail.com
+
+URGENT!
+Click here immediately to verify your account.
